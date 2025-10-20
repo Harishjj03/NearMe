@@ -299,15 +299,13 @@ vellore.html:
 ```
 
 ## OUTPUT
-![alt text](project4/collagehtml.png)
-![alt text](project4/homehtml.png)
-![alt text](project4/maphtml.png)
-![alt text](project4/placehtml.png)
-![alt text](project4/vellorehtml.png)
-![alt text](project4/naruvihtml.png)
+![alt text](maphtml.png)
+![alt text](vellorehtml.png)
+![alt text](placehtml.png)
+![alt text](naruvihtml.png)
+![alt text](homehtml.png)
 
-
-
+![alt text](collegehtml.png)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
